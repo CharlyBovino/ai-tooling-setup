@@ -87,11 +87,11 @@ The repository was successfully opened in Cursor and recognized as a valid proje
 While attempting to push changes to GitHub, the operation failed with a 403 error. GitHub no longer supports username/password authentication for Git operations from the terminal.
 
 **Diagnosis:**  
-Authentication was failing because Git requires a Personal Access Token (PAT, Personal Access Token) instead of a password.
+Authentication was failing because Git requires a Personal Access Token (PAT) instead of a password.
 
 **Solution:**
 
-- Generated a Personal Access Token (PAT, Personal Access Token) with `repo` scope from GitHub Developer Settings
+- Generated a Personal Access Token (PAT) with `repo` scope from GitHub Developer Settings
 - Updated the remote repository URL to include the token for authentication
 
 **Result:**  
