@@ -52,6 +52,45 @@ Cursor appears to run commands in an isolated environment that may not immediate
 
 ---
 
+### 3. GitHub Authentication Failure (Personal Access Token required)
+
+**Problem:**  
+While attempting to push changes to GitHub, the operation failed with a 403 error. GitHub no longer supports username/password authentication for Git operations from the terminal.
+
+**Diagnosis:**  
+Authentication was failing because Git required a Personal Access Token (PAT) instead of a password.
+
+**Solution:**
+
+- Generated a Personal Access Token (PAT) with `repo` scope from GitHub Developer Settings
+- Updated the remote repository URL to include the token for authentication
+
+**Result:**  
+Successfully authenticated and pushed changes to the remote repository.
+
+---
+
+### 4. Commit Author Mismatch
+
+**Problem:**  
+The commit author was incorrectly set to a different name ("Natalia Brochero"), which was not associated with the GitHub account. As a result, commits were not properly attributed.
+
+**Diagnosis:**  
+Git was using a previously configured global identity that did not match the current GitHub user.
+
+**Solution:**
+
+- Updated global Git configuration:
+  - [user.name](http://user.name)
+  - [user.email](http://user.email)
+- Amended the previous commit to update the author information
+- Forced push to overwrite the incorrect commit history
+
+**Result:**  
+Commits are now correctly attributed to the GitHub account and linked to the user profile.
+
+---
+
 ## Solutions
 
 ### Solution 1 — Install required system dependencies
