@@ -14,24 +14,35 @@ Rather than focusing exclusively on acquisition tactics, this research examines 
 
 ## Community Strategy & Community-Led Growth
 
-### 1. David Spinks
+### ### 1. David Spinks
 
 **Primary Focus:** Community Strategy, Community-Led Growth
 
-**LinkedIn:** TBD
+**LinkedIn:** [https://www.linkedin.com/in/davidspinks/](https://www.linkedin.com/in/davidspinks/)
 
-**Website:** TBD
+**Website:** [https://www.davidspinks.com/](https://www.davidspinks.com/)
+
+**YouTube:**
+
+- [https://www.youtube.com/@DavidSpinks](https://www.youtube.com/@DavidSpinks)
+
+- [https://www.youtube.com/@CMXHub](https://www.youtube.com/@CMXHub)
 
 **Content Collected:**
 
 - LinkedIn posts
+
 - YouTube transcripts
 
-**Why Selected:**  
-David Spinks is one of the most recognized voices in Community-Led Growth. His work focuses on how communities generate business value, improve retention, and support sustainable growth.
+- Community strategy content
 
-**Relevance to Recruiting Platforms:**  
-His frameworks help explain how recruiting products can create value through relationships, knowledge-sharing, and professional trust networks.
+**Why Selected:**
+
+David Spinks is one of the leading authorities on Community-Led Growth and the founder of CMX, one of the most influential professional communities focused on community building. His work explores how communities generate business value, improve retention, increase engagement, and create sustainable growth.
+
+**Relevance to Recruiting Platforms:**
+
+His frameworks provide a strong foundation for understanding how recruiting platforms can leverage professional relationships, knowledge-sharing, and user participation to create trust and long-term competitive advantages beyond software features alone.
 
 ---
 
