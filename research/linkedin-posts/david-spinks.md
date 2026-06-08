@@ -16,7 +16,7 @@ YouTube:
 
 CMX:
 
-[https://www.youtube.com/@CMXHub](https://www.youtube.com/@CMXHub)
+[https://www.cmxhub.com/](https://www.cmxhub.com/)
 
 ---
 
@@ -32,8 +32,6 @@ Key recurring themes:
 - Knowledge-sharing ecosystems
 - Retention through belonging
 - Community as a competitive advantage
-
-
 
 ---
 
@@ -56,9 +54,8 @@ Date:
 2026-06-08
 
 Link:  
-  
-[https://www.linkedin.com/posts/davidspinks_anyone-who-thinks-ai-can-replace-coaching-activity-7469741105966809089-a9_g?utm_source=share&utm_medium=member_desktop&rcm=ACoAADaOEQsBQxJCUsb_KGK8ohQumm2Xy2nrXkU](https://www.linkedin.com/posts/davidspinks_anyone-who-thinks-ai-can-replace-coaching-activity-7469741105966809089-a9_g?utm_source=share&utm_medium=member_desktop&rcm=ACoAADaOEQsBQxJCUsb_KGK8ohQumm2Xy2nrXkU)  
 
+[https://www.linkedin.com/posts/davidspinks_anyone-who-thinks-ai-can-replace-coaching-activity-7469741105966809089-a9_g?utm_source=share&utm_medium=member_desktop&rcm=ACoAADaOEQsBQxJCUsb_KGK8ohQumm2Xy2nrXkU](https://www.linkedin.com/posts/davidspinks_anyone-who-thinks-ai-can-replace-coaching-activity-7469741105966809089-a9_g?utm_source=share&utm_medium=member_desktop&rcm=ACoAADaOEQsBQxJCUsb_KGK8ohQumm2Xy2nrXkU)  
 
 Excerpt:
 
@@ -77,7 +74,7 @@ This post reinforces a central principle of Community-Led Growth: communities cr
 
 ---
 
-### #### Post 2
+### Post 2
 
 Topic:
 
@@ -98,11 +95,8 @@ David Spinks promoted an event focused on exploring the tension between business
 Key Insights:
 
 - Community builders often face a tension between growth objectives and member wellbeing.
-
 - Sustainable communities require balancing business goals with genuine human relationships.
-
 - Community leadership involves navigating complex social dynamics, not just driving engagement metrics.
-
 - Strong communities are built through trust and shared purpose rather than pure growth tactics.
 
 Community-Led Growth Relevance:
@@ -111,7 +105,7 @@ As communities scale, leaders must balance commercial objectives with member val
 
 ---
 
-### #### Post 3
+### Post 3
 
 Topic:
 
@@ -132,13 +126,9 @@ David Spinks explains the concept of the Community Commitment Curve, originally 
 Key Insights:
 
 - Members should not be asked for high levels of commitment too early.
-
 - Community participation develops progressively through small actions and experiences.
-
 - Intentional pathways can guide members from passive consumption to active leadership.
-
 - Community growth depends on creating clear next steps for deeper engagement.
-
 - Some members naturally increase commitment when presented with the right invitation.
 
 Framework Mentioned:
@@ -148,17 +138,11 @@ Community Commitment Curve
 Examples of progression:
 
 - Read content
-
 - Attend events
-
 - Join discussions
-
 - Help other members
-
 - Mentor newcomers
-
 - Lead initiatives
-
 - Assume leadership roles
 
 Community-Led Growth Relevance:

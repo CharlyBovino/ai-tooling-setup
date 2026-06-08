@@ -30,7 +30,7 @@ Key recurring themes:
 
 ---
 
-## Content Collection
+## Collected Posts
 
 ### LinkedIn Posts
 
